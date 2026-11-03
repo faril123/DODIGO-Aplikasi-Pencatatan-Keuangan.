@@ -1,5 +1,8 @@
 # DIDIGO
 
+
+![DODIGI](docs/screenshots/banner.png)
+
 Aplikasi pencatatan keuangan pribadi berbasis Flutter. Catat pemasukan dan pengeluaran, atur anggaran, pantau tagihan, dan capai target tabungan dalam satu aplikasi.
 
 ## Fitur
