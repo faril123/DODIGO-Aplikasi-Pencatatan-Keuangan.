@@ -68,10 +68,6 @@ lib/
 
 > File `.env` tidak disertakan di repository. Pastikan tabel database di Supabase sudah disiapkan sesuai kebutuhan aplikasi.
 
-## Lisensi
-
-<tulis lisensi, misalnya MIT. Lihat file `LICENSE`>
-
 ## Pembuat
 
 Faril Rahman ([@faril123](https://github.com/faril123))
