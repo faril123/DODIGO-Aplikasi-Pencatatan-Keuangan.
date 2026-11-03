@@ -21,10 +21,6 @@ Aplikasi pencatatan keuangan pribadi berbasis Flutter. Catat pemasukan dan penge
 - [Riverpod](https://riverpod.dev) (state management)
 - [GoRouter](https://pub.dev/packages/go_router) (navigasi)
 
-## Screenshot
-
-<tambahkan screenshot di sini, misalnya simpan di folder `docs/screenshots/` lalu tulis `![Dashboard](docs/screenshots/dashboard.png)`>
-
 ## Struktur Project
 
 ```
