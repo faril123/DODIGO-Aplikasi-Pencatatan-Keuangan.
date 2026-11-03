@@ -1,4 +1,4 @@
-# DODIGO
+# DODIGI
 
 
 ![DODIGI](docs/screenshots/banner.png)
